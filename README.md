@@ -31,7 +31,7 @@ Python · PyTorch · HuggingFace Transformers, PEFT, TRL · PennyLane · Qiskit 
 – [qmilab.com](https://qmilab.com) — research lab
 – [astrollm.org](https://astrollm.org) — domain-specialized LLM for astronomy
 – [LinkedIn](https://linkedin.com/in/NandanJoshi)
-– [X](https://x.com/NandanJoshi)
+– [X](https://x.com/nandanito)
 
 <!--
 **nandanito/nandanito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
