@@ -1,49 +1,57 @@
-# Nandan Joshi
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Nandan Joshi — physics → machine learning → quantum" src="assets/banner-light.svg" width="100%">
+</picture>
 
-Physics → software → quantum.
+Physicist by training, now working where machine intelligence, quantum computing and cryptography for digital assets meet. What ties them together for me is how information becomes structure, signal, and eventually knowledge.
 
-Director, Digital Assets at SettleMint (Tokyo). Independent research in quantum machine learning and scientific foundation models. Trained as a physicist at Göttingen.
+## Now
 
-I work across three fields that share more than they appear to — machine intelligence, quantum computing, and digital assets. Each is fundamentally about how information becomes structure, signal, and eventually knowledge.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Currently
+**[QMI Lab](https://qmilab.com)** · the independent lab I run<br>
+Research on intelligence and learning across classical and quantum computation. Current work: hybrid quantum-classical Transformer fine-tuning, and cross-lingual transfer through romanization.
 
-– Leading solutions architecture and pre-sales for SettleMint's digital-asset platform across Japan and Germany — research-grade ideas moving (or not moving) through banks, regulators, and procurement.
+</td>
+<td width="50%" valign="top">
 
-– Running [QMI Lab](https://qmilab.com), an independent research lab on intelligence, learning, and representation across classical and quantum computation. Three pillars: foundations of machine intelligence (classical, publish-now), quantum machine intelligence (near-term, benchmark-driven), and quantum world models (long-horizon, agenda-setting). Active projects include hybrid quantum-classical Transformer fine-tuning for NLP and cross-lingual transfer through romanization.
+**[AstroLLM](https://astrollm.org)** · building an LLM for astronomy<br>
+Retrieval-grounded, QLoRA-tuned on Qwen3, wired to NASA ADS, SIMBAD and the Exoplanet Archive. Evaluated on grounding, tool routing, abstention and teaching quality.
 
-– Building [AstroLLM](https://astrollm.org), a retrieval-grounded language model for astronomy and astrophysics. QLoRA fine-tuning on Qwen3 base models, integrated with NASA ADS, SIMBAD, and the NASA Exoplanet Archive. Custom four-track evaluation suite for grounding accuracy, tool routing, abstention, and pedagogical quality.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Confidential Digital Assets** · privacy on public ledgers<br>
+What confidential-token systems actually hide, established by running them rather than reading their docs, with every claim traced to evidence. First study: [Zeto on Paladin (EVM)](https://github.com/nandanito/evm-confidential-positions). An XRPL (XLS-96) counterpart is coming soon.
+
+</td>
+<td width="50%" valign="top">
+
+**PQC** · post-quantum cryptography<br>
+Implementing post-quantum schemes from their NIST standards, and explaining them along the way. First project: [slh-dsa-zig](https://github.com/nandanito/slh-dsa-zig), SLH-DSA (FIPS 205) in pure Zig, with a [guide](https://nandan.me/slh-dsa-zig/) to how the scheme works.
+
+</td>
+</tr>
+</table>
+
+Beyond the lab, I work across the wider quantum computing stack: algorithms and circuits, hybrid quantum-classical methods, simulators and hardware back-ends, and the developer tooling that connects them.
+
+Also learning in public: [array-thinking-to-q](https://github.com/nandanito/array-thinking-to-q), from J to q/kdb+ with every example executed.
 
 ## Background
 
-Diplom Physik (Göttingen, 2007). DFG-funded doctoral research in stellar astrophysics at the Institut für Astrophysik Göttingen — observations at European Southern Observatory facilities in Chile, custom IDL pipelines for spectroscopic analysis.
+- **Diplom Physik, Göttingen (2007).** DFG-funded doctoral research in stellar astrophysics at the Institut für Astrophysik Göttingen: observing at ESO facilities in Chile, custom IDL pipelines for spectroscopic analysis.
+- **Max Planck Institute for Dynamics and Self-Organization.** Q-learning agents controlling simulated artificial muscles, with the biomechanics modeled through Lagrangian mechanics. Reinforcement learning from before the deep-RL era.
+- **Publication:** Reiners et al., *A Catalog of Rotation and Activity in Early-M Stars.* The Astronomical Journal 143, 93 (2012). [ADS](https://ui.adsabs.harvard.edu/abs/2012AJ....143...93R/abstract)
 
-Earlier work at the Max Planck Institute for Dynamics and Self-Organization on Q-learning agents controlling simulated artificial muscle systems, with biomechanical dynamics modeled through Lagrangian mechanics — hands-on reinforcement-learning research predating both the deep-RL era and the rise of physics-informed machine learning.
+## Toolbox
 
-Publication: Reiners et al., *A Catalog of Rotation and Activity in Early-M Stars.* The Astronomical Journal 143, 93 (2012). [ADS](http://adsabs.harvard.edu/abs/2012AJ....143...93R)
-
-## Working with
-
-Python · PyTorch · HuggingFace Transformers, PEFT, TRL · PennyLane · Qiskit · vLLM · Unsloth · PostgreSQL / pgvector · TypeScript · Astro
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Transformers%20·%20PEFT%20·%20TRL-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![vLLM](https://img.shields.io/badge/vLLM-30363d?style=flat-square) ![Unsloth](https://img.shields.io/badge/Unsloth-30363d?style=flat-square) ![PennyLane](https://img.shields.io/badge/PennyLane-30363d?style=flat-square) ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20·%20pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 
 ## Elsewhere
 
-– [qmilab.com](https://qmilab.com) — research lab
-– [astrollm.org](https://astrollm.org) — domain-specialized LLM for astronomy
-– [LinkedIn](https://linkedin.com/in/NandanJoshi)
-– [X](https://x.com/nandanito)
-
-<!--
-**nandanito/nandanito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[nandan.me](https://nandan.me) · [qmilab.com](https://qmilab.com) · [astrollm.org](https://astrollm.org) · [LinkedIn](https://linkedin.com/in/NandanJoshi) · [X](https://x.com/nandanito)
